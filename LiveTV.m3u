@@ -1,0 +1,135 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Klexer/TV/main/TVGuide.xml,https://i.mjh.nz/SamsungTVPlus/de.xml"
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="ARD.de" group-title="Live",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF.de" group-title="Live",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDRSachsen.de" group-title="Live",MDR
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE.de" group-title="Live",ARTE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="phoenix.de" group-title="Live",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat.de" group-title="Live",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="One.de" tvg-name="One.de" group-title="Live",One
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo.de" group-title="Live",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo.de" group-title="Live",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24.de" group-title="Live",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="DF1" tvg-name="DF1" group-title="Live",DF1
+https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha.de" group-title="Live",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR.de" group-title="Live",BR
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-name="HR.de" group-title="Live",hr
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
+#EXTINF:-1 tvg-id="ndrnds.de" tvg-name="ndrnds.de" group-title="Live",NDR
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbbBerlin.de" group-title="Live",rbb
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-id="SWR.de" tvg-name="SWR.de" group-title="Live",SWR
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR.de" group-title="Live",WDR
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="Kika.de" group-title="Live",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="BibelTV.de" tvg-name="BibelTV.de" group-title="Live",Bibel TV
+https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat1.de" group-title="Live",SAT.1
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://s.hdtvizlecanli.com/sat1.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL.de" group-title="Live",RTL
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://s.hdtvizlecanli.com/rtl.m3u8
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2.de" group-title="Live",RTL II
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://s.hdtvizlecanli.com/rtl2d.m3u8
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="Pro7.de" group-title="Live",ProSieben
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://s.hdtvizlecanli.com/pro7a.m3u8
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel.de" group-title="Live",Kabel Eins
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://s.hdtvizlecanli.com/kabel1a.m3u8
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX.de" group-title="Live",VOX
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://s.hdtvizlecanli.com/voxc.m3u8
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTLNitro.de" group-title="Live",Nitro
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/rtlnitroger.m3u8
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSiebenMaxx.de" group-title="Live",ProSieben MAXX
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/prosiebenmaxx.m3u8
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat1Gold.de" group-title="Live",SAT.1 Gold
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/sgold.m3u8
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele5.de" group-title="Live",Tele 5
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://s.hdtvizlecanli.com/tele5ger2.m3u8
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="Sixx.de" group-title="Live",sixx
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/sixxger.m3u8
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMax.de" group-title="Live",DMAX
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/dmaxger.m3u8
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC.de" group-title="Live",TLC
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://s.hdtvizlecanli.com/tlc.m3u8
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="SuperRTL.de" group-title="Live",Super RTL
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/superrtl2.m3u8
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="disneychannel.de" group-title="Live",Disney Channel
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/disneyger2.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" tvg-name="ComedyCentral/VIVA.de" group-title="Live",Comedy Central
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/comedyc1.m3u8
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF1.at" group-title="Live",ORF 1
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://s.hdtvizlecanli.com/orf1a.m3u8
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF2.at" group-title="Live",ORF 2
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/orf2.m3u8
+#EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV.at" group-title="Live",ATV
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/atv.m3u8
+#EXTINF:-1 tvg-id="SERVU" tvg-name="SERVU" group-title="Live",Servus TV
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://s.hdtvizlecanli.com/servustv.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv.de" group-title="Live",NTV
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/ntvgera.m3u8
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT.de" group-title="Live",WELT
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+#EXTINF:-1 tvg-id="BILD.de" tvg-name="BILD.de" group-title="Live",Bild
+https://bild.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="KabelEinsDoku.de" group-title="Live",Kabel Eins Doku
+#EXTVLCOPT:http-referrer=https://www.livestreamde.com/
+https://stream.hdtvizlecanli.com/kabel1doku.m3u8
+#EXTINF:-1 tvg-id="DEBA3300015ZU" group-title="Live",Rakuten Top Film
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="DEAJ3500001Q1" group-title="Live",Rakuten Action
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="DEAJ3500003YF" group-title="Live",Rakuten Drama
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="DEAJ3500002EO" group-title="Live",Rakuten Comedy
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="DEBA3300017VV" group-title="Live",Rakuten Kino.DE
+https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="Thriller - Rakuten TV" group-title="Live",Rakuten Thriller
+https://rakuten-thriller-3-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="Romantik - Rakuten TV" group-title="Live",Rakuten Romance
+https://rakuten-romance-3-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="ATAJ3500001J9" group-title="Live",Rakuten.AT Action
+https://rakuten-actionmovies-5-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="ATAJ3500003Y1" group-title="Live",Rakuten.AT Drama
+https://rakuten-tvshows-5-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="ATAJ35000024Y" group-title="Live",Rakuten.AT Comedy
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="CHAJ35000021Z" group-title="Live",Rakuten.CH Action
+https://rakuten-actionmovies-4-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="CHAJ3500004D1" group-title="Live",Rakuten.CH Drama
+https://rakuten-tvshows-4-eu.rakuten.wurl.tv/3000.m3u8
