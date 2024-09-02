@@ -109,15 +109,15 @@ https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="KabelEinsDoku.de" group-title="Live",Kabel Eins Doku
 #EXTVLCOPT:http-referrer=https://www.livestreamde.com/
 https://stream.hdtvizlecanli.com/kabel1doku.m3u8
-#EXTINF:-1 tvg-id="DEBA3300015ZU" group-title="Live",Rakuten Top Film
+#EXTINF:-1 tvg-id="DE26000096S" tvg-name="Top Filme - Rakuten TV" group-title="Live",Rakuten Top Film
 https://rakuten-topfree-3-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="DEAJ3500001Q1" group-title="Live",Rakuten Action
+#EXTINF:-1 tvg-id="DE2600005XA" tvg-name="Actionfilme - Rakuten TV" group-title="Live",Rakuten Action
 https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="DEAJ3500003YF" group-title="Live",Rakuten Drama
+#EXTINF:-1 tvg-id="DEAJ3500003YF" tvg-name="Drama Filme - Rakuten TV" group-title="Live",Rakuten Drama
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="DEAJ3500002EO" group-title="Live",Rakuten Comedy
+#EXTINF:-1 tvg-id="DEAJ3500002EO" tvg-name="Komödien - Rakuten TV" group-title="Live",Rakuten Comedy
 https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="DEBA3300017VV" group-title="Live",Rakuten Kino.DE
+#EXTINF:-1 tvg-id="DEBA3300017VV" tvg-name="Deutsches Kino - Rakuten TV" group-title="Live",Rakuten Kino.DE
 https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-name="Thriller - Rakuten TV" group-title="Live",Rakuten Thriller
 https://rakuten-thriller-3-eu.rakuten.wurl.tv/3000.m3u8
