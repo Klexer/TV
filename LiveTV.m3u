@@ -123,13 +123,13 @@ https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/3000.m3u8
 https://rakuten-thriller-3-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-name="Romantik - Rakuten TV" group-title="Live",Rakuten Romance
 https://rakuten-romance-3-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="ATAJ3500001J9" group-title="Live",Rakuten.AT Action
+#EXTINF:-1 tvg-id="AT26000054S" tvg-name="Actionfilme - Rakuten TV" group-title="Live",Rakuten.AT Action
 https://rakuten-actionmovies-5-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="ATAJ3500003Y1" group-title="Live",Rakuten.AT Drama
+#EXTINF:-1 tvg-id="ATAJ3500003Y1" tvg-name="Drama Filme - Rakuten TV" group-title="Live",Rakuten.AT Drama
 https://rakuten-tvshows-5-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="ATAJ35000024Y" group-title="Live",Rakuten.AT Comedy
+#EXTINF:-1 tvg-id="ATAJ35000024Y" tvg-name="Komödien - Rakuten TV" group-title="Live",Rakuten.AT Comedy
 https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="CHAJ35000021Z" group-title="Live",Rakuten.CH Action
+#EXTINF:-1 tvg-id="CH2600004R1" tvg-name="Actionfilme - Rakuten TV" group-title="Live",Rakuten.CH Action
 https://rakuten-actionmovies-4-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="CHAJ3500004D1" group-title="Live",Rakuten.CH Drama
+#EXTINF:-1 tvg-id="CHAJ3500004D1" tvg-name="Drama Filme - Rakuten TV" group-title="Live",Rakuten.CH Drama
 https://rakuten-tvshows-4-eu.rakuten.wurl.tv/3000.m3u8
