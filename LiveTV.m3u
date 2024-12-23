@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Klexer/TV/main/TVGuide.xml,https://i.mjh.nz/SamsungTVPlus/de.xml"
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="ARD.de" group-title="Live",Das Erste (IPTV)
-https://mcdn.daserste.de/daserste/de/master.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF.de" group-title="Live",ZDF (IPTV)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDRSachsen.de" group-title="Live",MDR (IPTV)
@@ -12,7 +12,7 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat.de" group-title="Live",3sat (IPTV)
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="One.de" tvg-name="One.de" group-title="Live",One (IPTV)
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo.de" group-title="Live",ZDFneo (IPTV)
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo.de" group-title="Live",ZDFinfo (IPTV)
