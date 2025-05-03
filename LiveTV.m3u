@@ -3,7 +3,7 @@
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="DE: ZDF" tvg-name="ZDF.de" group-title="Live",ZDF (IPTV)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="DE: MDR Sachsen" tvg-name="MDRSachsen.de" group-title="Live",MDR (IPTV)
+#EXTINF:-1 tvg-id="DE: MDR Thüringen" tvg-name="MDRSachsen.de" group-title="Live",MDR (IPTV)
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-id="DE: ARTE" tvg-name="ARTE.de" group-title="Live",ARTE (IPTV)
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
@@ -19,7 +19,7 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="DE: Tagesschau24" tvg-name="tagesschau24.de" group-title="Live",tagesschau24 (IPTV)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="DE: DF1" tvg-name="DF1" group-title="Live",DF1 (IPTV)
+#EXTINF:-1 tvg-id="DE: Servus TV" tvg-name="DF1" group-title="Live",DF1 (IPTV)
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
 #EXTINF:-1 tvg-id="DE: ARD alpha" tvg-name="ARD-alpha.de" group-title="Live",ARD-alpha (IPTV)
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
