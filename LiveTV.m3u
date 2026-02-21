@@ -40,53 +40,53 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="DE: BibelTV" tvg-name="BibelTV.de" group-title="Live",Bibel TV (IPTV)
 https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="DE: SAT.1" tvg-name="Sat1.de" group-title="Live",SAT.1 (IPTV)
-https://stream.livestreamde.com/live/sat1.m3u8
+https://s33.hdtvizlecanli.com/live/sat1.m3u8
 #EXTINF:-1 tvg-id="DE: RTL" tvg-name="RTL.de" group-title="Live",RTL (IPTV)
-https://stream.livestreamde.com/live/rtl.m3u8
+https://s33.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="DE: RTL ZWEI" tvg-name="RTL2.de" group-title="Live",RTL II (IPTV)
-https://stream.livestreamde.com/live/rtl2.m3u8
+https://s33.hdtvizlecanli.com/live/rtl2.m3u8
 #EXTINF:-1 tvg-id="DE: ProSieben" tvg-name="Pro7.de" group-title="Live",ProSieben (IPTV)
-https://stream.livestreamde.com/live/pro7.m3u8
+https://s33.hdtvizlecanli.com/live/pro7.m3u8
 #EXTINF:-1 tvg-id="DE: Kabel Eins" tvg-name="Kabel.de" group-title="Live",Kabel Eins (IPTV)
-https://stream.livestreamde.com/live/kabel1.m3u8
+https://s33.hdtvizlecanli.com/live/kabel1.m3u8
 #EXTINF:-1 tvg-id="DE: VOX" tvg-name="VOX.de" group-title="Live",VOX (IPTV)
-https://stream.livestreamde.com/live/vox.m3u8
+https://s33.hdtvizlecanli.com/live/vox.m3u8
 #EXTINF:-1 tvg-id="DE: NITRO" tvg-name="RTLNitro.de" group-title="Live",Nitro (IPTV)
-https://stream.livestreamde.com/live/nitro.m3u8
+https://s33.hdtvizlecanli.com/live/nitro.m3u8
 #EXTINF:-1 tvg-id="DE: ProSieben MAXX" tvg-name="ProSiebenMaxx.de" group-title="Live",ProSieben MAXX (IPTV)
-https://stream.livestreamde.com/live/pro7max.m3u8
+https://s33.hdtvizlecanli.com/live/pro7max.m3u8
 #EXTINF:-1 tvg-id="DE: SAT.1 GOLD" tvg-name="Sat1Gold.de" group-title="Live",SAT.1 Gold (IPTV)
-https://stream.livestreamde.com/live/sat1gold.m3u8
+https://s33.hdtvizlecanli.com/live/sat1gold.m3u8
 #EXTINF:-1 tvg-id="AT: ORF 1" tvg-name="ORF1.at" group-title="Live",ORF 1 (IPTV)
-https://stream.livestreamde.com/live/orf1.m3u8
+https://s33.hdtvizlecanli.com/live/orf1.m3u8
 #EXTINF:-1 tvg-id="AT: ORF 2" tvg-name="ORF2.at" group-title="Live",ORF 2 (IPTV)
-https://stream.livestreamde.com/live/orf2.m3u8
+https://s33.hdtvizlecanli.com/live/orf2.m3u8
 #EXTINF:-1 tvg-id="DE: TELE 5" tvg-name="Tele5.de" group-title="Live",Tele 5 (IPTV)
-https://stream.livestreamde.com/live/tele5.m3u8
+https://s33.hdtvizlecanli.com/live/tele5.m3u8
 #EXTINF:-1 tvg-id="DE: SIXX" tvg-name="Sixx.de" group-title="Live",sixx (IPTV)
-https://stream.livestreamde.com/live/six.m3u8
+https://s33.hdtvizlecanli.com/live/six.m3u8
 #EXTINF:-1 tvg-id="DE: DMAX" tvg-name="DMax.de" group-title="Live",DMAX (IPTV)
-https://stream.livestreamde.com/live/dmax.m3u8
+https://s33.hdtvizlecanli.com/live/dmax.m3u8
 #EXTINF:-1 tvg-id="DE: TLC" tvg-name="TLC.de" group-title="Live",TLC (IPTV)
-https://stream.livestreamde.com/live/tlc.m3u8
+https://s33.hdtvizlecanli.com/live/tlc.m3u8
 #EXTINF:-1 tvg-id="DE: Super RTL" tvg-name="SuperRTL.de" group-title="Live",Super RTL (IPTV)
-https://stream.livestreamde.com/live/superrtl.m3u8
+https://s33.hdtvizlecanli.com/live/superrtl.m3u8
 #EXTINF:-1 tvg-id="DE: Disney Channel" tvg-name="disneychannel.de" group-title="Live",Disney Channel (IPTV)
-https://stream.livestreamde.com/live/disney.m3u8
+https://s33.hdtvizlecanli.com/live/disney.m3u8
 #EXTINF:-1 tvg-id="DE: Comedy Central" tvg-name="ComedyCentral/VIVA.de" group-title="Live",Comedy Central (IPTV)
-https://stream.livestreamde.com/live/comedy.m3u8
+https://s33.hdtvizlecanli.com/live/comedy.m3u8
 #EXTINF:-1 tvg-id="AT: ATV" tvg-name="ATV.at" group-title="Live",ATV (IPTV)
-https://stream.livestreamde.com/live/atv.m3u8
+https://s33.hdtvizlecanli.com/live/atv.m3u8
 #EXTINF:-1 tvg-id="DE: Servus TV" tvg-name="SERVU" group-title="Live",Servus TV (IPTV)
-https://stream.livestreamde.com/live/servus.m3u8
+https://s33.hdtvizlecanli.com/live/servus.m3u8
 #EXTINF:-1 tvg-id="DE: N-TV" tvg-name="ntv.de" group-title="Live",NTV (IPTV)
-https://stream.livestreamde.com/live/ntv.m3u8
+https://s33.hdtvizlecanli.com/live/ntv.m3u8
 #EXTINF:-1 tvg-id="DE: WELT" tvg-name="WELT.de" group-title="Live",WELT (IPTV)
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 #EXTINF:-1 tvg-id="DE: BILD" tvg-name="BILD.de" group-title="Live",Bild (IPTV)
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-id="DE: Kabel Eins Doku" tvg-name="KabelEinsDoku.de" group-title="Live",Kabel Eins Doku (IPTV)
-https://stream.livestreamde.com/live/kabel1doku.m3u8
+https://s33.hdtvizlecanli.com/live/kabel1doku.m3u8
 #EXTINF:-1 tvg-id="DE26000096S" tvg-name="Top Filme - Rakuten TV" group-title="Live",Rakuten Top Film
 https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
 #EXTINF:-1 tvg-id="DE2600005XA" tvg-name="Actionfilme - Rakuten TV" group-title="Live",Rakuten Action
