@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://xmltv.info/de/epg.xml,https://i.mjh.nz/SamsungTVPlus/de.xml"
+#EXTREM x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://i.mjh.nz/SamsungTVPlus/de.xml.gz"
 #EXTINF:-1 tvg-id="DE: Das Erste" tvg-name="ARD.de" group-title="Live",Das Erste (IPTV)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="DE: ZDF" tvg-name="ZDF.de" group-title="Live",ZDF (IPTV)
