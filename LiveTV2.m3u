@@ -79,7 +79,7 @@ https://s6.hopslan.com/vivaX/index.m3u8
 #EXTINF:-1 tvg-id="ATV.de" tvg-name="ATV" group-title="Live",ATV (IPTV)
 https://s3.hdtvizlecanli.com/live/atv.m3u8
 #EXTINF:-1 tvg-id="Servus.TV.Österreich.de" tvg-name="Servus TV Österreich" group-title="Live",Servus TV (IPTV)
-https://s6.hopslan.com/servus12/index.m3u8
+https://s6.hopslan.com/servus1/index.m3u8
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv" group-title="Live",NTV (IPTV)
 https://s6.hopslan.com/ntvX/index.m3u8
 #EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" group-title="Live",WELT (IPTV)
