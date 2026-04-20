@@ -1,92 +1,92 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://i.mjh.nz/SamsungTVPlus/de.xml.gz"
-#EXTREM x-tvg-url="https://iptv-epg.org/files/epg-de.xml,https://i.mjh.nz/SamsungTVPlus/de.xml"
-#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" group-title="Live",Das Erste (IPTV)
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-jrqmggnuqe.xml,https://i.mjh.nz/SamsungTVPlus/de.xml"
+#EXTREM x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://i.mjh.nz/SamsungTVPlus/de.xml.gz"
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="DE - Das Erste" group-title="Live",Das Erste (IPTV)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" group-title="Live",ZDF (IPTV)
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE - ZDF" group-title="Live",ZDF (IPTV)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR" group-title="Live",MDR (IPTV)
+#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="DE - MDR Sachsen" group-title="Live",MDR (IPTV)
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" group-title="Live",ARTE (IPTV)
+#EXTINF:-1 tvg-id="ATV.at" tvg-name="AT - ATV" group-title="Live",ARTE (IPTV)
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="PHOENIX" group-title="Live",phoenix (IPTV)
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE - phoenix" group-title="Live",phoenix (IPTV)
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" group-title="Live",3sat (IPTV)
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE - 3sat" group-title="Live",3sat (IPTV)
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="ONE.de" tvg-name="ONE" group-title="Live",One (IPTV)
+#EXTINF:-1 tvg-id="ONE.de" tvg-name="DE - ONE" group-title="Live",One (IPTV)
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" group-title="Live",ZDFneo (IPTV)
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="DE - ZDFinfo" group-title="Live",ZDFneo (IPTV)
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" group-title="Live",ZDFinfo (IPTV)
+#EXTINF:-1 tvg-id="zdf_neo.de" tvg-name="DE - zdf_neo" group-title="Live",ZDFinfo (IPTV)
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" group-title="Live",tagesschau24 (IPTV)
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE - tagesschau24" group-title="Live",tagesschau24 (IPTV)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="DF1.de" tvg-name="DF1" group-title="Live",DF1 (IPTV)
+#EXTINF:-1 tvg-id="DF1.de" tvg-name="DE - DF1" group-title="Live",DF1 (IPTV)
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
-#EXTINF:-1 tvg-id="ARD.alpha.de" tvg-name="ARD alpha" group-title="Live",ARD-alpha (IPTV)
+#EXTINF:-1 tvg-id="ATV.at" tvg-name="DE - ARTE" group-title="Live",ARD-alpha (IPTV)
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="BR.de" tvg-name="BR" group-title="Live",BR (IPTV)
+#EXTINF:-1 tvg-id="BR.de" tvg-name="DE - BR" group-title="Live",BR (IPTV)
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="HR.de" tvg-name="HR" group-title="Live",hr (IPTV)
+#EXTINF:-1 tvg-id="hr.de" tvg-name="DE - hr" group-title="Live",hr (IPTV)
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
-#EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR" group-title="Live",NDR (IPTV)
+#EXTINF:-1 tvg-id="NDR.de" tvg-name="DE - NDR" group-title="Live",NDR (IPTV)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-id="RBB.de" tvg-name="RBB" group-title="Live",rbb (IPTV)
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="DE - rbb Berlin" group-title="Live",rbb (IPTV)
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-#EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR/SR" group-title="Live",SWR (IPTV)
+#EXTINF:-1 tvg-id="SWRBW.de" tvg-name="DE - SWR BW" group-title="Live",SWR (IPTV)
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR" group-title="Live",WDR (IPTV)
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="DE - WDR" group-title="Live",WDR (IPTV)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 tvg-id="KIKA.de" tvg-name="KIKA" group-title="Live",KiKA (IPTV)
+#EXTINF:-1 tvg-id="KiKA.de" tvg-name="DE - KiKA" group-title="Live",KiKA (IPTV)
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="Bibel TV" tvg-name="Bibel.TVde" group-title="Live",Bibel TV (IPTV)
 https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="SAT.1.de" tvg-name="SAT.1" group-title="Live",SAT.1 (IPTV)
+#EXTINF:-1 tvg-id="SAT1.de" tvg-name="DE - SAT.1" group-title="Live",SAT.1 (IPTV)
 https://s3.hdtvizlecanli.com/live/sat1.m3u8
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" group-title="Live",RTL (IPTV)
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE - RTL" group-title="Live",RTL (IPTV)
 https://s3.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTL ZWEI" group-title="Live",RTL II (IPTV)
 https://s3.hdtvizlecanli.com/live/rtl2.m3u8
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" group-title="Live",ProSieben (IPTV)
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="DE - ProSieben" group-title="Live",ProSieben (IPTV)
 https://s3.hdtvizlecanli.com/live/pro7.m3u8
-#EXTINF:-1 tvg-id="kabel.eins.de" tvg-name="Kabel Eins" group-title="Live",Kabel Eins (IPTV)
+#EXTINF:-1 tvg-id="KabelEins.de" tvg-name="Kabel Eins" group-title="Live",Kabel Eins (IPTV)
 https://s3.hdtvizlecanli.com/live/kabel1.m3u8
-#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" group-title="Live",VOX (IPTV)
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="DE - VOX" group-title="Live",VOX (IPTV)
 https://s3.hdtvizlecanli.com/live/vox.m3u8
-#EXTINF:-1 tvg-id="NITRO.de" tvg-name="NITRO" group-title="Live",Nitro (IPTV)
+#EXTINF:-1 tvg-id="NITRO.de" tvg-name="DE - NITRO" group-title="Live",Nitro (IPTV)
 https://s3.hdtvizlecanli.com/live/nitro.m3u8
-#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben MAXX" group-title="Live",ProSieben MAXX (IPTV)
+#EXTINF:-1 tvg-id="ProSiebenMAXX.de" tvg-name="DE - ProSieben MAXX" group-title="Live",ProSieben MAXX (IPTV)
 https://s3.hdtvizlecanli.com/live/pro7max.m3u8
-#EXTINF:-1 tvg-id="SAT.1.Gold.de" tvg-name="SAT.1 Gold" group-title="Live",SAT.1 Gold (IPTV)
+#EXTINF:-1 tvg-id="SAT1GOLD.de" tvg-name="DE - SAT.1 GOLD" group-title="Live",SAT.1 Gold (IPTV)
 https://s3.hdtvizlecanli.com/live/sat1gold.m3u8
-#EXTINF:-1 tvg-id="ORF.1.de" tvg-name="ORF 1" group-title="Live",ORF 1 (IPTV)
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="AT - ORF 1" group-title="Live",ORF 1 (IPTV)
 https://s3.hdtvizlecanli.com/live/orf1.m3u8
-#EXTINF:-1 tvg-id="ORF.2.de" tvg-name="ORF 2" group-title="Live",ORF 2 (IPTV)
+#EXTINF:-1 tvg-id="ORF2Wien.at" tvg-name="AT - ORF 2 Wien" group-title="Live",ORF 2 (IPTV)
 https://s3.hdtvizlecanli.com/live/orf2.m3u8
-#EXTINF:-1 tvg-id="Tele.5.de" tvg-name="Tele 5" group-title="Live",Tele 5 (IPTV)
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="DE - Tele 5" group-title="Live",Tele 5 (IPTV)
 https://s3.hdtvizlecanli.com/live/tele5.m3u8
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" group-title="Live",sixx (IPTV)
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE - sixx" group-title="Live",sixx (IPTV)
 https://s3.hdtvizlecanli.com/live/six.m3u8
-#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX" group-title="Live",DMAX (IPTV)
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DE - DMAX" group-title="Live",DMAX (IPTV)
 https://s3.hdtvizlecanli.com/live/dmax.m3u8
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" group-title="Live",TLC (IPTV)
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="DE - TLC" group-title="Live",TLC (IPTV)
 https://s3.hdtvizlecanli.com/live/tlc.m3u8
-#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="Super RTL" group-title="Live",Super RTL (IPTV)
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL" group-title="Live",Super RTL (IPTV)
 https://s3.hdtvizlecanli.com/live/superrtl.m3u8
-#EXTINF:-1 tvg-id="Disney.Channel.de" tvg-name="Disney Channel" group-title="Live",Disney Channel (IPTV)
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="DE - Disney Channel" group-title="Live",Disney Channel (IPTV)
 https://s3.hdtvizlecanli.com/live/disney.m3u8
-#EXTINF:-1 tvg-id="Comedy.Central.de" tvg-name="Comedy Central" group-title="Live",Comedy Central (IPTV)
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="DE - Comedy Central" group-title="Live",Comedy Central (IPTV)
 https://s3.hdtvizlecanli.com/live/comedy.m3u8
-#EXTINF:-1 tvg-id="ATV.de" tvg-name="ATV" group-title="Live",ATV (IPTV)
+#EXTINF:-1 tvg-id="Bild.de" tvg-name="DE - Bild" group-title="Live",ATV (IPTV)
 https://s3.hdtvizlecanli.com/live/atv.m3u8
-#EXTINF:-1 tvg-id="DF1.de" tvg-name="DF1" group-title="Live",Servus TV (IPTV)
+#EXTINF:-1 tvg-id="DF1.de" tvg-name="DE - DF1" group-title="Live",Servus TV (IPTV)
 https://s3.hdtvizlecanli.com/live/servus.m3u8
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv" group-title="Live",NTV (IPTV)
+#EXTINF:-1 tvg-id="n-tv.de" tvg-name="DE - n-tv" group-title="Live",NTV (IPTV)
 https://s3.hdtvizlecanli.com/live/ntv.m3u8
-#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" group-title="Live",WELT (IPTV)
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="DE - WELT" group-title="Live",WELT (IPTV)
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 #EXTINF:-1 tvg-id="BILD.de" tvg-name="BILD" group-title="Live",Bild (IPTV)
 https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-id="kabel.eins.Doku.de" tvg-name="kabel eins Doku" group-title="Live",Kabel Eins Doku (IPTV)
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="DE - Kabel Eins Doku" group-title="Live",Kabel Eins Doku (IPTV)
 https://s3.hdtvizlecanli.com/live/kabel1doku.m3u8
 #EXTINF:-1 tvg-id="DE26000096S" tvg-name="Top Filme - Rakuten TV" group-title="Live",Rakuten Top Film
 https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
