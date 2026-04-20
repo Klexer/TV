@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-id="DE: Das Erste" tvg-name="Das Erste" group-title="Live",Das Erste (IPTV)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="DE: ZDF" tvg-name="ZDF" group-title="Live",ZDF (IPTV)
-https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="DE: MDR Sachsen" tvg-name="MDR Sachsen" group-title="Live",MDR (IPTV)
-https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-id="DE: ARTE" tvg-name="ARTE" group-title="Live",ARTE (IPTV)
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 #EXTINF:-1 tvg-id="DE: Phoenix" tvg-name="Phoenix" group-title="Live",phoenix (IPTV)
@@ -25,9 +25,9 @@ https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/in
 #EXTINF:-1 tvg-id="DE: ARD alpha" tvg-name="ARD alpha" group-title="Live",ARD-alpha (IPTV)
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="DE: BR Süd" tvg-name="BR Süd" group-title="Live",BR (IPTV)
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="DE: HR" tvg-name="HR" group-title="Live",hr (IPTV)
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
 #EXTINF:-1 tvg-id="DE: NDR Niedersachsen" tvg-name="NDR Niedersachsen" group-title="Live",NDR (IPTV)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-id="DE: rbb Berlin" tvg-name="rbb Berlin" group-title="Live",rbb (IPTV)
