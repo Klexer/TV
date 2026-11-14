@@ -58,10 +58,10 @@ https://s6.hopslan.com/nitro1/index.m3u8
 https://s6.hopslan.com/pro7maxxX/index.m3u8
 #EXTINF:-1 tvg-id="SAT.1.Gold.de" tvg-name="SAT.1 Gold" group-title="Live",SAT.1 Gold (IPTV)
 https://s6.hopslan.com/goldX/index.m3u8
-#EXTINF:-1 tvg-id="ORF.1.de" tvg-name="ORF 1" group-title="Live",ORF 1 (IPTV)
-https://s6.hopslan.com/orf11/index.m3u8
-#EXTINF:-1 tvg-id="ORF.2.de" tvg-name="ORF 2" group-title="Live",ORF 2 (IPTV)
-https://s6.hopslan.com/orf2/index.m3u8
+#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTLup" group-title="Live",RTLup (IPTV)
+https://s6.hopslan.com/rtltupz/index.m3u8
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" group-title="Live",VOXup (IPTV)
+https://s6.hopslan.com/voxupz/index.m3u8
 #EXTINF:-1 tvg-id="Tele.5.de" tvg-name="Tele 5" group-title="Live",Tele 5 (IPTV)
 https://s6.hopslan.com/tele5X/index.m3u8
 #EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" group-title="Live",sixx (IPTV)
@@ -76,8 +76,8 @@ https://s6.hopslan.com/superX/index.m3u8
 https://s6.hopslan.com/disneyX/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.de" tvg-name="Comedy Central" group-title="Live",Comedy Central (IPTV)
 https://s6.hopslan.com/vivaX/index.m3u8
-#EXTINF:-1 tvg-id="ATV.de" tvg-name="ATV" group-title="Live",ATV (IPTV)
-https://s3.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:-1 tvg-id="ORF.1.de" tvg-name="ORF 1" group-title="Live",ORF 1 (IPTV)
+https://s6.hopslan.com/orf11/index.m3u8
 #EXTINF:-1 tvg-id="Servus.TV.Österreich.de" tvg-name="Servus TV Österreich" group-title="Live",Servus TV (IPTV)
 https://s6.hopslan.com/servuz1/index.m3u8
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv" group-title="Live",NTV (IPTV)
